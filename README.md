@@ -7,3 +7,5 @@ Everything in it is fictional demo data: the people, reviews, prices and verific
 American Neighbor is a private business. It is not affiliated with, endorsed by, or sponsored by the Department of Defense or any government agency.
 
 Open `index.html` in a browser, or view the published page through GitHub Pages.
+
+Map base layer: Natural Earth 1:10m (public domain, naturalearthdata.com). It shows major highways, rivers, rail lines, county lines and built-up areas in simplified form.
